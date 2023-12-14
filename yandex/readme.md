@@ -14,4 +14,4 @@
 А так, базовая структура выглядит [примерно так](https://github.com/KOLYAPAVL/Interview/tree/master/yandex/presentation.pdf)
 
 ### Мои собеседования
-[⭐️ Декабрь 2023. Senior Backend - Yandex GO] (https://github.com/KOLYAPAVL/Interview/tree/master/yandex/2023_senior_go/readme.md)
+[⭐️ Декабрь 2023. Senior Backend - Yandex GO](https://github.com/KOLYAPAVL/Interview/tree/master/yandex/2023_senior_go/readme.md)
